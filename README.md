@@ -1,4 +1,4 @@
-# macvel
+# Mr. Macvel
 ![alt tag](logo.png)
 
 Mr. Macvel - is simple **MAC** address **ve**ndor **l**ookup tool helpful to network &amp; support engineers.
